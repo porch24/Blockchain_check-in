@@ -1,3 +1,4 @@
+import 'package:dart_web3/dart_web3.dart';
 import 'package:flutter/material.dart';
 
 class ContractLinking extends ChangeNotifier {

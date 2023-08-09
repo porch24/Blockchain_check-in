@@ -1,5 +1,5 @@
+import 'package:checkin/contract_linking.dart';
 import 'package:flutter/material.dart';
-import 'package:hello_world/contract_linking.dart';
 import 'package:provider/provider.dart';
 
 void main() {
