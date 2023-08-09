@@ -31,10 +31,10 @@ dependencies:
   dart_web3: ^0.0.3
   flutter:
     sdk: flutter
+  hello_world_template: ^1.0.3
   http: ^0.13.6
   provider: ^6.0.5
   web_socket_channel: ^2.4.0
-  hello_world_template: ^1.0.3
 provider: ^4.3.3
 web3dart: ^1.2.3
 http: ^0.12.2
