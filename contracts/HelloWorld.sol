@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: MIT
-pragma solidity >= 5.11.2 ;
+pragma solidity ^0.8.16;
 
 contract HelloWorld {
     string public yourName ;
